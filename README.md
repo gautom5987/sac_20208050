@@ -1,1 +1,1 @@
-# sac_20208050
+Demo website for Student Activity Center(SAC), MNNIT.
