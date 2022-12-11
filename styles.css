@@ -1,0 +1,13 @@
+.layout-container {
+color: #39424a;
+text-size-adjust: none;
+word-wrap: break-word;
+word-break: break-word;
+font-size: 1.8rem;
+line-height: 2.6rem;
+font-family: Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+box-sizing: border-box;
+position: relative;
+z-index: 2;
+padding: 6rem 1.8rem!important;
+}
